@@ -2,7 +2,7 @@ import "./App.css";
 
 const projects = [
   {
-    title: "Smart Task Manager",
+    title: "Task Manager",
     desc: "A React app to manage tasks with categories, due dates, and local storage.",
     tech: ["React", "CSS"],
   },
@@ -38,7 +38,7 @@ export default function App() {
 
         <div className="buttons">
           <a href="#projects" className="btn primary">View Projects</a>
-          <a href="#" className="btn secondary">Download Resume</a>
+          <a href="https://drive.google.com/file/d/1UJVgikoCKxm6y6YrRoJ8nDu705aaf9D0/view?usp=drive_link" className="btn secondary">Download Resume</a>
         </div>
       </section>
 
@@ -67,8 +67,8 @@ export default function App() {
               </div>
 
               <div className="links">
-                <a href="#">Live</a>
-                <a href="#">GitHub</a>
+                <a href="https://my-portfolio-tau-two-93.vercel.app/#projects">Live</a>
+                <a href="https://github.com/Pruthviraj8880/Task-Manager.git">GitHub</a>
               </div>
             </div>
           ))}

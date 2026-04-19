@@ -70,7 +70,7 @@ export default function App() {
 
         <div className="buttons">
           <a href="#projects" className="btn primary">View Projects</a>
-          <a href="https://drive.google.com/file/d/1UJVgikoCKxm6y6YrRoJ8nDu705aaf9D0/view?usp=drive_link" className="btn secondary">Download Resume</a>
+          <a href="https://drive.google.com/file/d/1UJVgikoCKxm6y6YrRoJ8nDu705aaf9D0/view?usp=drive_link" target="_blank" className="btn secondary">Download Resume</a>
         </div>
       </section>
 

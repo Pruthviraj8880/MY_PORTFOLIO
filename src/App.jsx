@@ -12,7 +12,7 @@ const projects = [
   title: "Rock-Paper-Scissor",
   desc: "An interactive, responsive web version of the classic Rock-Paper-Scissors game with real-time score tracking.",
   tech: ["REACT", "JAVASCRIPT"],
-  livelink: "https://rock-paper-scissor-5y3x.vercel.app/",
+  liveLink: "https://rock-paper-scissor-5y3x.vercel.app/",
   githubLink: "https://github.com/Pruthviraj8880/ROCK-PAPER-SCISSOR",
 },
   {
@@ -33,14 +33,14 @@ const projects = [
     title: "Bugatti Chiron Website",
     desc: "A sleek, animated tribute to the Bugatti Chiron, featuring a premium user interface and responsive layout",
     tech: ["HTML","ANTIGRAVITY"],
-    livelink: "https://bugattichironn.netlify.app/",
+    liveLink: "https://bugattichironn.netlify.app/",
     githubLink: "https://github.com/Pruthviraj8880/BuggatiChiron",
   },
     {
     title: "Travel Guide",
     desc: "A comprehensive, responsive travel guide showcasing the top attractions and hidden gems of Paris.",
     tech: ["HTML","CSS"],
-    livelink: "https://travel-destination-guide-sepia.vercel.app/",
+    liveLink: "https://travel-destination-guide-sepia.vercel.app/",
     githubLink: "https://github.com/Pruthviraj8880/Travel_Destination_Guide",
   },
 ];

@@ -9,6 +9,13 @@ const projects = [
     githubLink: "https://github.com/Pruthviraj8880/Task-Manager.git",
   },
   {
+  title: "Rock-Paper-Scissor",
+  desc: "An interactive, responsive web version of the classic Rock-Paper-Scissors game with real-time score tracking.",
+  tech: ["REACT", "JAVASCRIPT"],
+  livelink: "https://rock-paper-scissor-5y3x.vercel.app/",
+  githubLink: "https://github.com/Pruthviraj8880/ROCK-PAPER-SCISSOR",
+},
+  {
     title: "Weather App",
     desc: "Fetches real-time weather data using API with clean UI.",
     tech: ["JavaScript", "API"],
@@ -28,13 +35,6 @@ const projects = [
     tech: ["HTML","ANTIGRAVITY"],
     livelink: "https://bugattichironn.netlify.app/",
     githubLink: "https://github.com/Pruthviraj8880/BuggatiChiron",
-  },
-    {
-    title: "Rock-Paper-Scissor",
-    desc: "An interactive, responsive web version of the classic Rock-Paper-Scissors game with real-time score tracking.",
-    tech: ["REACT", "JAVASCRIPT"],
-    livelink: "https://rock-paper-scissor-5y3x.vercel.app/",
-    githubLink: "https://github.com/Pruthviraj8880/ROCK-PAPER-SCISSOR",
   },
     {
     title: "Travel Guide",

@@ -25,7 +25,7 @@ const projects = [
   {
     title: "Bugatti Chiron Website",
     desc: "A sleek, animated tribute to the Bugatti Chiron, featuring a premium user interface and responsive layout",
-    tech: [],
+    tech: ["HTML","ANTIGRAVITY"],
     livelink: "https://bugattichironn.netlify.app/",
     githubLink: "https://github.com/Pruthviraj8880/BuggatiChiron",
   },

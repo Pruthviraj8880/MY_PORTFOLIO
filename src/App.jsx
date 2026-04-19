@@ -6,11 +6,11 @@ const projects = [
     desc: "A React app to manage tasks with categories, due dates, and local storage.",
     tech: ["React", "CSS"],
   },
-//   {
-//     title: "Weather App",
-//     desc: "Fetches real-time weather data using API with clean UI.",
-//     tech: ["JavaScript", "API"],
-//   },
+  {
+    title: "Weather App",
+    desc: "Fetches real-time weather data using API with clean UI.",
+    tech: ["JavaScript", "API"],
+  },
 ];
 
 export default function App() {

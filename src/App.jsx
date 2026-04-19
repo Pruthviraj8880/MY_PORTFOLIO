@@ -5,11 +5,15 @@ const projects = [
     title: "Task Manager",
     desc: "A React app to manage tasks with categories, due dates, and local storage.",
     tech: ["React", "CSS"],
+    liveLink: "https://task-manager-tau-eight-51.vercel.app/",
+    githubLink: "https://github.com/Pruthviraj8880/Task-Manager.git",
   },
   {
     title: "Weather App",
     desc: "Fetches real-time weather data using API with clean UI.",
     tech: ["JavaScript", "API"],
+    liveLink: "https://smart-city-dashboard1-seven.vercel.app/",
+    githubLink: "https://github.com/Pruthviraj8880/smart-city-dashboard1",
   },
 ];
 
@@ -65,14 +69,10 @@ export default function App() {
                   <span key={idx}>{t}</span>
                 ))}
               </div>
-
               <div className="links">
-                <a href="https://task-manager-tau-eight-51.vercel.app/">Live</a>
-                <a href="https://github.com/Pruthviraj8880/Task-Manager.git">GitHub</a>
-              </div>
-              <div className="links">
-                <a href="https://smart-city-dashboard1-seven.vercel.app/">Live</a>
-                <a href="https://github.com/Pruthviraj8880/smart-city-dashboard1">GitHub</a>
+              {/* Use p.liveLink and p.githubLink instead of strings */}
+              <a href={p.liveLink} target="_blank" rel="noopener noreferrer">Live</a>
+              <a href={p.githubLink} target="_blank" rel="noopener noreferrer">GitHub</a>
               </div>
             </div>
           ))}

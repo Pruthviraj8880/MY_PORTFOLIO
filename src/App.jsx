@@ -67,7 +67,7 @@ export default function App() {
               </div>
 
               <div className="links">
-                <a href="https://my-portfolio-tau-two-93.vercel.app/#projects">Live</a>
+                <a href="https://task-manager-tau-eight-51.vercel.app/">Live</a>
                 <a href="https://github.com/Pruthviraj8880/Task-Manager.git">GitHub</a>
               </div>
             </div>
